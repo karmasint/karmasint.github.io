@@ -1,5 +1,3 @@
-# karmasint.github.io
-<!DOCTYPE html>
 <html lang="es">
 <head>
     <meta charset="UTF-8">
@@ -87,7 +85,7 @@ Cada año, millones de metros cúbicos de aguas residuales mal tratadas o sin tr
     <section>
         <h3>Cambio Climático</h3>
         <p>Respecto al cambio climático, el planeta ha experimentado un aumento de temperatura de 1.2 °C en promedio desde la era preindustrial, intensificando fenómenos meteorológicos extremos como olas de calor, inundaciones y sequías prolongadas. </p>
-        <img src="fotos/cambio_climatico.png" alt="Cambio Climático">
+        <img src="fotos/cambio_climatico.png.png" alt="Cambio Climático">
     </section>
 
     <section>
@@ -109,7 +107,7 @@ Se estima que en el periodo 2001-2018 en México se perdieron en promedio 212,07
             <li>Pérdida de biodiversidad: según la ONU, un millón de especies están actualmente en peligro de extinción. </li>
             <li>Contaminación acústica y lumínica: alteración de ecosistemas urbanos y rurales, afectando ciclos de sueño y migración animal. </li>
         </ul>
-        <img src="fotos/otros_problemas.jpg" alt="Otros Problemas">
+        <img src="fotos/otros_problemas.jpg.jpg" alt="Otros Problemas">
     </section>
 
 <section id="causas">
@@ -172,6 +170,3 @@ Se estima que en el periodo 2001-2018 en México se perdieron en promedio 212,07
 </footer>
 
 <button id="btnTop" onclick="window.scrollTo({ top: 0, behavior: 'smooth' });">⬆️</button>
-
-</body>
-</html>
