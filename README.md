@@ -73,7 +73,7 @@ Por ello, este proyecto tiene como finalidad analizar las principales problemát
         <p>Uno de los mayores desafíos actuales es la contaminación del aire, causada principalmente por el transporte motorizado, las industrias pesadas y la quema de combustibles fósiles. Se estima que cerca de 7 millones de personas mueren anualmente debido a enfermedades relacionadas con la mala calidad del aire. 
 
 De acuerdo con las cifras de SEMARNAT, para el año 2013 las fuentes antropogénicas emiten el mayor porcentaje de contaminación en México con un 79%, dejando a las naturales con el 21% restante como se muestra en la figura 1; por otra parte, las principales fuentes antropogénicas son las Móviles (formas de transporte y vehículos motorizados) con un 58% del total de emisiones.</p>
-        <img src="fotos/contaminacion_aire.jpg" alt="Contaminación del Aire">
+        <img src="fotos/contaminacion_aire.jpg.jpg" alt="Contaminación del Aire">
     </section>
 
     <section>
@@ -81,7 +81,7 @@ De acuerdo con las cifras de SEMARNAT, para el año 2013 las fuentes antropogén
         <p>La contaminación del agua es igualmente alarmante: el 80% de las aguas residuales se vierte sin tratamiento adecuado al medio ambiente. Esto no solo afecta a los ecosistemas acuáticos, sino que compromete la disponibilidad de agua potable para millones de personas. 
 
 Cada año, millones de metros cúbicos de aguas residuales mal tratadas o sin tratamiento contaminan los cuerpos de agua, afectando ecosistemas y salud. Es necesario reducir los volúmenes y mejorar los procesos de tratamiento por razones sociales, ambientales, económicas y de seguridad nacional. En México, el 52.7% de las aguas residuales municipales y el 32% de las no municipales son tratadas.</p>
-          <img src="fotos/contaminacion_agua.png" alt="Contaminación del Agua">
+          <img src="fotos/contaminacion_agua.png.png" alt="Contaminación del Agua">
     </section>
 
     <section>
@@ -99,7 +99,7 @@ Las principales causas directas de la Deforestación abarcan los cambios de uso 
 Paralelamente, la Degradación es un proceso que se relaciona principalmente con las presiones de usuarios locales cuyo uso de los recursos rebasa la capacidad de carga y de regeneración de los bosques debido, por ejemplo, a la tala selectiva, el sobrepastoreo, la expansión e intensificación de las prácticas de agricultura rotatoria y a la extracción de leña, madera, postes y otros productos forestales. 
 
 Se estima que en el periodo 2001-2018 en México se perdieron en promedio 212,070 ha al año de bosques y selvas. </p>
-        <img src="fotos/deforestacion.png" alt="Deforestación">
+        <img src="fotos/deforestacion.png.png" alt="Deforestación">
     </section>
 
     <section>
@@ -120,7 +120,7 @@ Se estima que en el periodo 2001-2018 en México se perdieron en promedio 212,07
         <li>Falta de educación ambiental</li>
         <li>Debilidad en políticas gubernamentales</li>
     </ul>
-    <img src="fotos/causas.jpg" alt="causas">
+    <img src="fotos/causas.jpg.jpg" alt="causas">
 </section>
 
 <section id="consecuencias">
@@ -131,7 +131,7 @@ Se estima que en el periodo 2001-2018 en México se perdieron en promedio 212,07
         <li>Economía: daños a infraestructuras, pérdidas agrícolas y turísticas.</li>
         <li>Sociedad: desplazamientos climáticos y conflictos por recursos.</li>
     </ul>
-    <img src="fotos/consecuencias.jpg" alt="consecuencias">
+    <img src="fotos/consecuencias.jpg.jpg" alt="consecuencias">
 </section>
 
 <section id="soluciones">
@@ -144,7 +144,7 @@ Se estima que en el periodo 2001-2018 en México se perdieron en promedio 212,07
         <li>Reforestar áreas degradadas</li>
         <li>Innovar en tecnologías limpias</li>
     </ul>
-    <img src="fotos/soluciones.jpg" alt="soluciones">
+    <img src="fotos/soluciones.jpg.jpg" alt="soluciones">
 </section>
 
 <section id="conclusiones">
